@@ -1,6 +1,5 @@
-[user]
-	name = xero
-	email = x@xero.nu
+[include]
+	path = ~/.config/git/private.conf
 [credential]
 	helper = cache
 [alias]
