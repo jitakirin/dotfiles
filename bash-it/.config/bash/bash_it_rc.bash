@@ -21,3 +21,8 @@ export SCM_CHECK=true
 
 # Load Bash It
 source $BASH_IT/bash_it.sh
+
+# Use standard UTF-8 characters so the theme doesn't require a custom
+# font.
+THEME_PROMPT_SEPARATOR="▶"
+SHELL_SSH_CHAR="➤ "
