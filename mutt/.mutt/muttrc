@@ -2,7 +2,6 @@ set header_cache = "~/.cache/mutt/"
 set message_cachedir = "~/.cache/mutt/"
 set certificate_file 	= "~/.mutt/certificates"
 set mail_check		= 120
-set editor		= vim
 unset imap_passive
 
 source ~/.mutt/accounts.rc
